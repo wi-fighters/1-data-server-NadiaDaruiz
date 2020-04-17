@@ -1,0 +1,52 @@
+{
+  "Records": [
+    {
+      "id": 1,
+      "name": "The Police",
+      "album": "Greatest Hits",
+      "cover": "https://media1.jpc.de/image/w600/front/0/0731454003025.jpg",
+      "year": 1992,
+      "price": 3.88
+    },
+    {
+      "id": 2,
+      "name": "Queen",
+      "album": "Greatest Hits",
+      "cover": "https://media1.jpc.de/image/w412/front/0/0602527583648.jpg",
+      "year": 1981,
+      "price": 3.37
+    },
+    {
+      "id": 3,
+      "name": "Supertramp",
+      "album": "The Very Best",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/613EHZMCIjL._SX355_.jpg",
+      "year": 1990,
+      "price": 4.08
+    },
+    {
+      "id": 4,
+      "name": "Rolling Stones",
+      "album": "Greatest Hits",
+      "cover": "https://media.zweitausendeins.de/bild/artikel/41/34/413441/cover/413441_1000px.jpg",
+      "year": 1993,
+      "price": 10.99
+    },
+    {
+      "id": 5,
+      "name": "Radiohead",
+      "album": "OK Computer",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/71wrIM7p0KL._SL1200_.jpg",
+      "year": 1997,
+      "price": 14.99
+    },
+    {
+      "id": 7,
+      "name": "Metallica",
+      "album": "Black Album",
+      "cover": "https://time-for-metal.eu/wp-content/uploads/2015/08/Metallica-Metallica.jpg",
+      "year": 1991,
+      "price": 14.99
+    }
+  ]
+}
